@@ -431,8 +431,8 @@ if __name__ == '__main__':
                 #     "\n----------------------------------\n")
 
                 #TRATAMENTO DA SADE
-                max_iterations = 40
-                pop_size = 30
+                max_iterations = 60
+                pop_size = 50
                 dim = 4
                 runs = 10
                 bounds = ((width_temp, width - width_temp),(height_temp, height - height_temp), (-60, 60), (0.5, 1.5))
